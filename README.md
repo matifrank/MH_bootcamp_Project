@@ -38,6 +38,6 @@ en el análisis de datos, pudiendo mejorar la rentabilidad y la eficiencia opera
 > Ingresar al Dashboard online <
 https://app.powerbi.com/view?r=eyJrIjoiNTVjYmJjZjYtYTU1MS00Y2Y0LWEwZjYtZDdlYmQ2YzE2NzhjIiwidCI6Ijc2ZjE2MjUzLWEzM2UtNDUxZC05NDI0LTUzNTYzMzA2N2MwZCIsImMiOjR9
 
->  <
+> Presentación Proyecto <
 https://docs.google.com/presentation/d/1Fe3dO7eyz5qv8iCSWtHk039akpOCVjsk/edit?usp=sharing&ouid=104113760710559165152&rtpof=true&sd=true
  
